@@ -1,0 +1,19 @@
+{
+  "name" : "arcabouco-tasks",
+  "description" : "async handlers for arcabouco-js",
+  "version" : "0.1.1",
+  "author" : "Patrick Negri <patrick@iugu.com.br>",
+  "homepage": "http://github.com/pnegri/arcabouco-js-tasks",
+  "contributors" : [],
+  "main" : "./main.js",
+  "directories": {
+    "lib":"./lib"
+  },
+  "dependencies" : {
+  },
+  "repository" : {
+    "type":"git",
+    "url":"git://github.com/pnegri/arcabouco-js-tasks.git"
+  },
+  "engines" : { "node" : ">= 0.4.0 < 0.7.0" }
+}
